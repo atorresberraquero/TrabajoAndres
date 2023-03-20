@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Peliculas-API</string>
+    <string-array name="opciones_spinner">
+        <item>Básica</item>
+        <item>Compartida</item>
+        <item>Premium</item>
+        <item>Suite Presidencial</item>
+    </string-array>
+    <string-array name="opciones_filtro">
+        <item>Destacados</item>
+        <item>Precios</item>
+    </string-array>
+    <string-array name="a">
+        <item>TreeHotel</item>
+        <item>Ice Hotel</item>
+        <item>Cave Hotel</item>
+        <item>Dog Hotel</item>
+        <item>Sandcastle Hotel</item>
+        <item>Chocolate Hotel</item>
+        <item>Movil Hotel</item>
+    </string-array>
+    <string-array name="c">
+        <item>1</item>
+        <item>2-6</item>
+        <item>+6</item>
+    </string-array>
+</resources>
